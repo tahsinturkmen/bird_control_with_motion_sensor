@@ -1,0 +1,6 @@
+../Drivers/STM32F4xx_HAL_Driver/Src/my_lis302dl.c:23:6:Lis302dl_Init	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/my_lis302dl.c:47:6:Lis302dl_Write	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/my_lis302dl.c:75:6:Lis302dl_Read	24	static
+../Drivers/STM32F4xx_HAL_Driver/Src/my_lis302dl.c:107:18:LIS302DL_GetDataRaw	32	static
+../Drivers/STM32F4xx_HAL_Driver/Src/my_lis302dl.c:133:10:LIS302DL_X_calibrate	16	static
+../Drivers/STM32F4xx_HAL_Driver/Src/my_lis302dl.c:156:10:LIS302DL_Y_calibrate	16	static
